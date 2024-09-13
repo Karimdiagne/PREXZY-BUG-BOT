@@ -10,7 +10,7 @@ global.location = "Nigeria, Osun, Osogbo"
 
 global.ownernumber = '221783087129'
     //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
+global.ownername = 'karimdiagne' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
